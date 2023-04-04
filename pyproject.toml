@@ -7,4 +7,3 @@ name = "second_py_package"
 dynamic = ["version"]
 
 [tool.setuptools_scm]
-write_to = "version.txt"
