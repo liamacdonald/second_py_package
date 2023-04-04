@@ -1,2 +1,2 @@
 def print_text():
-    print('This version 1.1.7')
+    print('This version 1.1.8')
