@@ -1,0 +1,7 @@
+pyproject.toml
+version.txt
+second_py_package/main.py
+second_py_package.egg-info/PKG-INFO
+second_py_package.egg-info/SOURCES.txt
+second_py_package.egg-info/dependency_links.txt
+second_py_package.egg-info/top_level.txt
